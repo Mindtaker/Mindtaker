@@ -1,9 +1,12 @@
-<h1 align="center">console.log('Hello World!'); 👋 I'm Nicolás!</h1>
+<h1 align="center">Glad to see you here! 👋 </h1>
 <h3 align="center">A passionate frontend developer and Software Engineer stundent from Argentina</h3>
 
 <p align="center"><a href="https://www.linkedin.com/in/nicolas-tutor/"><img width="80%" alt="Hello, I'm Nicolás. Nice to meet you!" src="https://i.imgur.com/YqdMDh9.gif" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindtaker&label=Profile%20views&color=0e75b6&style=flat" alt="mindtaker" /> </p>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 - 🔭 Working on a **personal secret project** 🤐
 - 🌱 Currently learning **Angular and React**
