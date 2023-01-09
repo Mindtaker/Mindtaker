@@ -1,18 +1,14 @@
 <h1 align="center">Glad to see you here! 👋 </h1>
-<h3 align="center">A passionate frontend developer and Software Engineer stundent from Argentina</h3>
+<h3 align="justify">I'm a nearly graduate in Software Engineer from Mendoza University 🎓. I'm a passionate learner who's always willing to learn and work across new technologies and leverage them to solve real-life problems 💡. Apart from that I also love technology, photography, space and video game developing 🕹️. I'm currently into Frontend Development and working to expand my knowledge 🤓.</h3>
 
-<p align="center"><a href="https://www.linkedin.com/in/nicolas-tutor/"><img width="80%" alt="Hello, I'm Nicolás. Nice to meet you!" src="https://i.imgur.com/YqdMDh9.gif" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindtaker&label=Profile%20views&color=0e75b6&style=flat" alt="mindtaker" /> </p>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
+<img align="right" height="622" width="350" alt="Hi, I'm Nicolas, nice to meet you!" src="https://raw.githubusercontent.com/Mindtaker/Mindtaker/main/gifs/hi.gif" />
 
 - 🔭 Working on a **personal secret project** 🤐
-- 🌱 Currently learning **Angular and React**
-- 📫 Reach me **nicotutor@outlook.com**
+- 🌱 Currently learning **Angular, React and English**
+- 📫 Reach me on **nicotutor@outlook.com**
 
-<h3 align="left">Connect with me! 🫡</h3>
+<h3 align="left">Or connect with me! 🫡</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolas-tutor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-tutor" height="30" width="40" /></a>
 </p>
@@ -33,5 +29,6 @@
     <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
   </p>
-
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindtaker&label=Profile%20views&color=0e75b6&style=flat" alt="mindtaker" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mindtaker&show_icons=true&locale=en&layout=compact" alt="mindtaker" /></p>
