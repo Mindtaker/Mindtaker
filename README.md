@@ -1,10 +1,10 @@
 <h1 align="center">Glad to see you here! 👋 </h1>
-<h3 align="justify">I'm a nearly graduate in Software Engineer from Mendoza University 🎓. I'm a passionate learner who's always willing to learn and work across new technologies and leverage them to solve real-life problems 💡. Apart from that I also love technology, photography, observe the space, video game developing and obviusly coffee ☕. I'm currently into Software Development and working hard to expand my knowledge 🤓.</h3>
+<h3 align="justify">I'm a nearly graduate in Software Engineer from Mendoza University 🎓. I'm a passionate learner who's always willing to learn and work across new technologies and leverage them to solve real-life problems 💡. Apart from that I also love technology, photography, observe the space, video game developing and obviusly coffee ☕. I'm currently into Frontend Development and working hard to expand my knowledge 🤓.</h3>
 
 
 
 - 🔭 Working on a **personal secret project** 🤐
-- 🌱 Currently learning **new Angular features, Qwik, Go and English**
+- 🌱 Currently learning **new Angular features, Qwik and English**
 - 📫 Reach me on **nicotutor@outlook.com**
 <img align="right" height="622" width="350" alt="Hi, I'm Nicolas, nice to meet you!" src="https://raw.githubusercontent.com/Mindtaker/Mindtaker/main/gifs/hi.gif" />
 
